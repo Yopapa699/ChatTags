@@ -1,7 +1,7 @@
 return {
     ["RifqiKil"] = {
         TagText = "VAPE OWNER",
-        TagColor = Color3.fromRGB(42, 242, 218)
+        TagColor = Color3.fromRGB(195, 66, 7)
     },
     ["ashadif937"] = {
         TagText = "CO OWNER",
