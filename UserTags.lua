@@ -6,5 +6,5 @@ return {
     ["NoJungleKiller"] = {
         TagText = "Private User",
         TagColor = Color3.fromRGB(33,203,246)
-    },
+    }
 }
