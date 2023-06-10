@@ -1,6 +1,6 @@
 return {
     ["RifqiKil"] = {
-         TagText = "OWNER",
+         TagText = "VAPE OWNER",
          TagColor = Color3.fromRGB(231,76,60)
     },
     ["NoJungleKiller"] = {
